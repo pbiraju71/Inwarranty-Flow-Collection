@@ -67,7 +67,6 @@ jobs:
             phoenix Inwarranty flow test has been executed, The report has been published and the URL
             is: https://github.com/pbiraju71/Inwarranty-Flow-Collection/
 
-          attachments: newman/index.html
             
 
       
